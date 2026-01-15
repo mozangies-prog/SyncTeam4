@@ -1,0 +1,5 @@
+{
+  "name": "SyncNote Chat 4",
+  "description": "A collaborative chat environment that automatically extracts meeting notes, key points, actionable tasks, and AI-driven problem-solving suggestions in real-time.",
+  "requestFramePermissions": []
+}
